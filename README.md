@@ -45,9 +45,9 @@ I'm a passionate **Computer Science Engineer** who loves turning ideas into real
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🚀 Currently Learning:
-![Learning AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&label=AWS%20%F0%9F%93%8E)
-![Learning Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&label=Azure%20%F0%9F%93%8E)
-![Learning Cybersecurity](https://img.shields.io/badge/Cybersecurity-4E7D96?style=for-the-badge&logo=security&logoColor=white&label=Cybersecurity%20%F0%9F%93%8E)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4E7D96?style=for-the-badge&logo=security&logoColor=white)
 
 ### 📊 GitHub Stats:
 ![Kabilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Kabilan&show_icons=true&theme=radical)
