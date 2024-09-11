@@ -26,9 +26,9 @@ I'm a passionate **Computer Science Engineer** who loves turning ideas into real
   - **Python** projects that challenge conventional problem-solving
 
 ### 📬 Get in Touch:
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-kabilan)  
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kabilan-k-14151425b)  
 - 📧 Email me at [Kabilankamal100@gmail.com](mailto:Kabilankamal100@gmail.com)
-- 🌐 Visit my [Portfolio](https://your-portfolio-link.com) (coming soon!)
+- 🌐 Visit my [Portfolio](#) (coming soon!)
 
 ### 😄 Pronouns:
 - He/Him
@@ -41,7 +41,6 @@ I'm a passionate **Computer Science Engineer** who loves turning ideas into real
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
